@@ -1,3 +1,5 @@
+<h2>Hi 👋, I'm Kanishk Sogani</h2>
+<h3>A passionate fullstack developer</h3>
 # 💫 About Me:
 🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Javascript, DSA<br>⚡ Fun fact i love Gaming
 
