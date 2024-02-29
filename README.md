@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk Sogani</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer and DSA Enthusiast</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Javascript, DSA<br>⚡ Fun fact i love Cooking
