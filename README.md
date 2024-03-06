@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer and Web3 Enthusiast</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Javascript, DSA<br>⚡ Fun fact i love trying new Tech
+🌱 I’m currently learning Full-Stack Development and Web3<br>💬 Ask me about React, Javascript, DSA<br>⚡ Fun fact i love trying new Tech
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanishksogani/) 
