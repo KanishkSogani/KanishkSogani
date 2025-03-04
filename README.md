@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer and Web3 Enthusiast</h3>
 
 # 💫 About Me:
-🌱 I’m currently working on **Full-Stack Development**.<br>💬 Ask me about **React, Next, Javascript, DSA**.<br>⚡ Fun fact i love trying new **Tech**.
+🌱 I’m currently working on **Web3 Development**.<br>💬 Ask me about **React, Next, Javascript, Solidity**.<br>⚡ Fun fact i love trying new **Tech**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishksogani/) 
